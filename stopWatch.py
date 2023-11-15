@@ -1,8 +1,5 @@
 import time
-from tkinter import *
-
-global start_time, running
-start_time = 0
+from tki
 running = False
 
 class App():
